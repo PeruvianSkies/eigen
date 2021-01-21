@@ -10,6 +10,8 @@ Berikut Penjelasan dan langkah-langkah dari topologi di atas
 5. Setelah selesai membuat container registry, Gitlab akan melakukan deployment ke Heroku
 6. Jika proses push docker image ke Heroku telah berhasil, maka Heroku akan menjalankan image tersebut.
 
+### [Gitlab Repository](https://gitlab.com/PeruvianSkies/eigentrimathema)
+
 ### STEP by STEP
 - Langkah pertama saya membuat Gitlab Repository, yang akan saya gunakan untuk memanage code aplikasi
 
@@ -95,3 +97,4 @@ Berikut beberapa dokumentasi ketika proses deploying
 
 ### Hasil akhir dari CICD Gitlab Docker
 ![imagename](asset/doc14.png)
+
